@@ -101,4 +101,4 @@ Notes:
 		  
 - I have added Test cases inside DataBootstrapTest.java class under src/test/java to test both Task1 and Task2.
 
-- I have also added Java docs and comments wherever I have added code in the project.
+- I have also documented my code using Java docs and comments wherever I have added code in the project.
